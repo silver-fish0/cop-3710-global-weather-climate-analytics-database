@@ -8,16 +8,18 @@ Database for storing weather and climate measurement data (temperature, wind spe
 
 High-level goals:
 
-Store location data such as city, state, elevation.
-Store weather and climate measurement readings with timestamps and units.
-Use SQL to generate summary results.
+- Store location data such as city, state, elevation.
+- Store weather and climate measurement readings with timestamps and units.
+- Use SQL to generate summary results.
+  
 Data sources:
 
 Global Historical Climatology Network daily - https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
 Global Data Lab - https://globaldatalab.org/climate/
+
 User:
 
-Admin
-Students
-Researchers
-Viewers
+- Admin
+- Students
+- Researchers
+- Viewers
